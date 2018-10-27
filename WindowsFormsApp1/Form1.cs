@@ -47,7 +47,14 @@ namespace WindowsFormsApp1
             //find all the files and add them to an array
             string[] array1 = Directory.GetFiles(textBox2.Text);
             //find all the created dates and add them into the array
+            DirectoryInfo info = new DirectoryInfo(textBox2.Text);
+            FileInfo[] files = info.GetFiles();
 
+            // Sort by creation-time descending 
+            Array.Sort(files, delegate (FileInfo f1, FileInfo f2)
+            {
+                return f2.CreationTime.CompareTo(f1.CreationTime);
+            });
             //create  folders for above array
 
             //create arrays for each folder

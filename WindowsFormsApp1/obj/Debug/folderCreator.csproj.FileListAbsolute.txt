@@ -1,0 +1,10 @@
+C:\code\FolderCreator\WindowsFormsApp1\obj\Debug\folderCreator.csprojAssemblyReference.cache
+C:\code\FolderCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\code\FolderCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\code\FolderCreator\WindowsFormsApp1\obj\Debug\folderCreator.csproj.GenerateResource.cache
+C:\code\FolderCreator\WindowsFormsApp1\obj\Debug\folderCreator.csproj.CoreCompileInputs.cache
+C:\code\FolderCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\code\FolderCreator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\code\FolderCreator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\code\FolderCreator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\code\FolderCreator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
