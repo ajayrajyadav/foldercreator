@@ -63,5 +63,18 @@ namespace WindowsFormsApp1
 
             //add them to the folders
         }
+
+ /*       public void sortTheFolderByCreatedDate(String directoryName)
+        {
+            // Get the files
+            DirectoryInfo info = new DirectoryInfo(directoryName);
+            FileInfo[] files = info.GetFiles();
+
+            // Sort by creation-time descending 
+            Array.Sort(files, delegate (FileInfo f1, FileInfo f2)
+            {
+                return f2.CreationTime.CompareTo(f1.CreationTime);
+            });
+        }*/
     }
 }
